@@ -1,0 +1,52 @@
+/* Hello !!! */
+.Navbar{
+    background-color: #00b155;
+    font-size: large;
+}
+
+.Logo{
+    height: 45px;
+}
+
+.about{
+    text-align: center;
+    font-size: large;
+    margin: 0px 30px 50px 30px;
+}
+
+.home-jumbo{
+    background-image: url(./ballbackdrop.jpg);
+    height: 300px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    background-size:150%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position-y: 60%;
+
+    margin-bottom: 0px;
+}
+
+.home-text{
+    text-align: center;
+}
+.home-cards{
+    text-align: center;
+}
+.title{
+    color: #00b155;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+    margin: 0px;
+}
+
+/* Schedule Weeks Title*/
+#root > div > main > div > div > h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+#root > div > main > div > div{
+    padding: 0px;
+}
